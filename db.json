@@ -4,6 +4,7 @@
       "id": 1,
       "first_name": "Sebastian",
       "last_name": "Eschweiler",
+       "title":"Winter body",
       "email": "sebastian@codingthesmartway.com",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
     "price":"110"
@@ -12,6 +13,7 @@
       "id": 2,
       "first_name": "Steve",
       "last_name": "Palmer",
+      "title":"Winter body",
       "email": "steve@codingthesmartway.com",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
     "price":"120"
@@ -20,6 +22,7 @@
       "id": 3,
       "first_name": "Ann",
       "last_name": "Smith",
+       "title":"Winter body",
       "email": "ann@codingthesmartway.com",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
     "price":"130"

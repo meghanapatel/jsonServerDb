@@ -4,19 +4,25 @@
       "id": 1,
       "first_name": "Sebastian",
       "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com"
+      "email": "sebastian@codingthesmartway.com",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
+    "price":"110"
     },
     {
       "id": 2,
       "first_name": "Steve",
       "last_name": "Palmer",
-      "email": "steve@codingthesmartway.com"
+      "email": "steve@codingthesmartway.com",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
+    "price":"120"
     },
     {
       "id": 3,
       "first_name": "Ann",
       "last_name": "Smith",
-      "email": "ann@codingthesmartway.com"
+      "email": "ann@codingthesmartway.com",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
+    "price":"130"
     }
   ]
 }
